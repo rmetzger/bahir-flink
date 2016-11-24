@@ -19,7 +19,7 @@ language: java
 
 env:
 #  - FLINK_VERSION="1.1.0"
-  - FLINK_VERSION="1.1.1"
+  - FLINK_VERSION="1.1.3"
 
 jdk:
   - oraclejdk8
